@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 50px;
+}
+.navBottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.navBottom ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.navBottom a{
+    color: black;
+}
+.navBottom ul li,a{
+    text-decoration: none;
+    list-style-type: none;
+}

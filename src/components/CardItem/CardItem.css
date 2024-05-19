@@ -1,0 +1,19 @@
+.cardItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-direction: column;
+    padding: 50px;
+}
+.cardItem h3{
+    font-size: 32px;
+}
+.carditemitems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 60px;
+    padding-top: 50px;
+}
